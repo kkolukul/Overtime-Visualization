@@ -1,0 +1,1808 @@
+[
+ {
+   "key": "Hughes",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Sanders",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Ross",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Woods",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Bennets",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Stewart",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "Sheila",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Zelma",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Mcreynolds",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Michel",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 6
+ },
+ {
+   "key": "Morren",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Shawna",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Cannon",
+   "region": "Department4",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Mario",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Hayes",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 6
+ },
+ {
+   "key": "Amanda",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Frank Taylor",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Barbados",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Belarus",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Belgium",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Belize",
+   "region": "Department1",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Benin",
+   "region": "Department1",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Bermuda",
+   "region": "Department1",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Bhuvi",
+   "region": "Department1",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Bonaire",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Bosnia and Herzegovina",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Botswana",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Bouvet Island",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "brain",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "vignesh",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Britney",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Bruni",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "ria",
+   "region": "Department1",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "naso",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "kundi",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "kathy",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Cameroon",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "Natalie",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Caprio",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "steev",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "mason",
+   "region": "Department1",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "scot",
+   "region": "Department1",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "mccall",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "stiles",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "lydia",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "martin",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "barry",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Allen",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "mako",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "fasid",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "andy",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "anderson",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 5
+ },
+ {
+   "key": "imran",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "salman",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "ronnie",
+   "region": "Department4",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Donnie",
+   "region": "Department4",
+   "subregion": "Team5",
+   "value": 2
+ },
+ {
+   "key": "Yen",
+   "region": "Department4",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "justin",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "kemp",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "walley",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 5
+ },
+ {
+   "key": "west",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Salva",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "aqua",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Eritrea",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 6
+ },
+ {
+   "key": "Esta",
+   "region": "Department4",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "Ethen",
+   "region": "Department4",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Falklner",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Faro",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Fiji",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 5
+ },
+ {
+   "key": "Fanny",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Fran",
+   "region": "Department4",
+   "subregion": "T6",
+   "value": 3
+ },
+ {
+   "key": "Freak",
+   "region": "Department4",
+   "subregion": "T6",
+   "value": 5
+ },
+ {
+   "key": "wade ",
+   "region": "Department4",
+   "subregion": "T6",
+   "value": 4
+ },
+ {
+   "key": "wilson",
+   "region": "Department4",
+   "subregion": "T6",
+   "value": 3
+ },
+ {
+   "key": "stark",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "michel",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "brandon",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 2
+ },
+ {
+   "key": "andy flower",
+   "region": "Department1",
+   "subregion": "Team5",
+   "value": 2
+ },
+ {
+   "key": "gemawat",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 1
+ },
+ {
+   "key": "rogers",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "lucy",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "nadia",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "nancy",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "corey",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "justin",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "jayant",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "mayank",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 6
+ },
+ {
+   "key": "Jayawardanee",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Sangakara",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Hafeez",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Arif",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "vikky",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "snow",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "lissa",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "ramsy",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Bolton",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "imp",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Varys",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Sresta",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Isle",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Esvee",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Sunil",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 5
+ },
+ {
+   "key": "Panga",
+   "region": "Department1",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Kuntesh",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "Paul",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Sandy",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Kiran",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "Larissa",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "shawn",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Hayden",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Gil Christ",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Bale",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Hemsworth",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Patt",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Morris",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Evan",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "olanga",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Dumini",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Develiers",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Mali",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Malta",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Marshall",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "jennifer",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "lopez",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "aniston",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Mayotte",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Nicolas",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Cage",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "arnold",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "liam",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Mourya",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Montain",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Monica",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Mona",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "Nissa",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "lila",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "Nauru",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Naveen",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 5
+ },
+ {
+   "key": "kanumuri",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "madona",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "Sabastein",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "jigar",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "bollam",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "ronnie",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Mariana ",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 3
+ },
+ {
+   "key": "Maria",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "Pavan",
+   "region": "Department2",
+   "subregion": "Team5",
+   "value": 4
+ },
+ {
+   "key": "Palau",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Panama",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "sharapova",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Prem",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Nany",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Pit",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Pole",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Portugal",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 1
+ },
+ {
+   "key": "Rico",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Revan",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "R�nu",
+   "region": "Department2",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Rohan",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Rusel",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "anda",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Sanath",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Sanga",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Sai",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Lucia",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Martin",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Pierre",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Vincent",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Samoa",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Marino",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Tom",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Senegal",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Servo",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Seychelles",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Sunny Leone",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Sree",
+   "region": "Department2",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Slova",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Shewag",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Solomon Islands",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Somalia",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Souvi",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Georgia",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Sudan",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Spane",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Srinivas",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Sundan",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Suriname",
+   "region": "Department2",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Salvam",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Swami",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Swetha",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Somya",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Tilak",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Taman",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Tanza",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "tarak",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Trivikram",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Togo",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Takila",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Trinad",
+   "region": "Department2",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Tunisha",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Tarun",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "rajeev",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Tommy",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Tuvalu",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "uday",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "raine",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Umesh",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "King",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Stewart",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Meena",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Virgin",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "rugu",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "sravani",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Vani",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Venesha",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Vamshi",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Walliams",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Sahara",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "patan",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Ram",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "kim",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Sherry Deforest",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Murali",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Navaneeth",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Rajeev",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Praveen",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Kamal",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Ashok",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Pavan",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Krishna",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Rahul",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Ali Server",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Pamella Thompson",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Akhiles",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Sumeesh",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Rahul Nair",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Amrutha",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Sneha",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Mythri",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Bukkapuram",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Nitya",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Puneeth",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Rudra",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Sudhher",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "BalaAditya",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Ravi Chandra",
+   "region": "Department4",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Kaushal",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Hema Malini",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Dharmendar",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 5
+ },
+ {
+   "key": "Lopez",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "hill",
+   "region": "Department4",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "scott",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "green",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Adams",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Karin",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 2
+ },
+ {
+   "key": "Pickrell",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 3
+ },
+ {
+   "key": "Yeaton",
+   "region": "Department3",
+   "subregion": "Team1",
+   "value": 4
+ },
+ {
+   "key": "Zelma",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Perz",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Robers",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 2
+ },
+ {
+   "key": "Turner",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 5
+ },
+ {
+   "key": "Philips",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 4
+ },
+ {
+   "key": "Campbell",
+   "region": "Department3",
+   "subregion": "Team2",
+   "value": 3
+ },
+ {
+   "key": "Newton",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Price",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Dixon",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Black",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Daniel",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Ryan",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Fiels",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Lawson",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Ran",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Snider",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Fox",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Riley",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Hart",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Ruiz",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Fuller",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Lynz",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Kennedy",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 3
+ },
+ {
+   "key": "Kricks",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "Greffins",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 2
+ },
+ {
+   "key": "Alexender",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 5
+ },
+ {
+   "key": "Kelly",
+   "region": "Department3",
+   "subregion": "Team3",
+   "value": 4
+ },
+ {
+   "key": "�lan",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Albert",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 2
+ },
+ {
+   "key": "Andrew",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Sameul",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 5
+ },
+ {
+   "key": "Andorra",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 6
+ },
+ {
+   "key": "Anna",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Ama",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Ananth",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Aanand",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Avinash",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Alekya",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Amoolya",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Austria",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 5
+ },
+ {
+   "key": "harbajan",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Bahamas",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 3
+ },
+ {
+   "key": "Bhrami",
+   "region": "Department4",
+   "subregion": "Team4",
+   "value": 4
+ },
+ {
+   "key": "Bane",
+   "region": "Department3",
+   "subregion": "Team4",
+   "value": 5
+ }
+]
